@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int biggestOfTwoNumbers(int *num1,int *num2){                       //Using if-else method
+int biggestOfTwoNumbers(int *num1,int *num2){                       //to check greatest of two using if-else method
 
 if(*num1>*num2)
 
